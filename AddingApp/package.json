@@ -1,0 +1,16 @@
+{
+  "name": "addingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "start": "node add.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yemane Yohanns",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}

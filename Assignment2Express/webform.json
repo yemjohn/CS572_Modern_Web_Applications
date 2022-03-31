@@ -1,0 +1,16 @@
+{
+    "firstName": "Yemane",
+    "middleName": "Yohanns",
+    "gender": "Male",
+    "age": 30,
+    "status": "single and searching",
+    "address": {
+        "streetAddress": "1000 N 4th Street",
+        "city": "Fairfield",
+        "state": "IA",
+        "postalCode": "52557"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "669649" }
+    ]
+}
